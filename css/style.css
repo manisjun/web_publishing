@@ -9,3 +9,8 @@ p {
     font-size: 20px;
     color: blud;
 }
+
+p:last-child {
+    font-size: 30px;
+    color: aqua;
+}
